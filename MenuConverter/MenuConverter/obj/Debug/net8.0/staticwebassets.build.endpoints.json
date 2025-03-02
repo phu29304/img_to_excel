@@ -7225,51 +7225,6 @@
       ]
     },
     {
-      "Route": "log.gk6r6jgtsk.txt",
-      "AssetFile": "log.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "412"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AHQO8WDlsQLiN7Sc5b6VZ5KGMnaKatum+5/U6CTlAqE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 03:57:30 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gk6r6jgtsk"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AHQO8WDlsQLiN7Sc5b6VZ5KGMnaKatum+5/U6CTlAqE="
-        },
-        {
-          "Name": "label",
-          "Value": "log.txt"
-        }
-      ]
-    },
-    {
       "Route": "log.txt",
       "AssetFile": "log.txt",
       "Selectors": [],
@@ -7284,7 +7239,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "289"
         },
         {
           "Name": "Content-Type",
@@ -7292,17 +7247,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AHQO8WDlsQLiN7Sc5b6VZ5KGMnaKatum+5/U6CTlAqE=\""
+          "Value": "\"8nVCR4rUIcCyAmO3iNkQOUDMcWwGJNniAQVJb8flnvY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 03:57:30 GMT"
+          "Value": "Sun, 02 Mar 2025 03:24:31 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AHQO8WDlsQLiN7Sc5b6VZ5KGMnaKatum+5/U6CTlAqE="
+          "Value": "sha256-8nVCR4rUIcCyAmO3iNkQOUDMcWwGJNniAQVJb8flnvY="
+        }
+      ]
+    },
+    {
+      "Route": "log.u81v6rm4yq.txt",
+      "AssetFile": "log.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8nVCR4rUIcCyAmO3iNkQOUDMcWwGJNniAQVJb8flnvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 03:24:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u81v6rm4yq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8nVCR4rUIcCyAmO3iNkQOUDMcWwGJNniAQVJb8flnvY="
+        },
+        {
+          "Name": "label",
+          "Value": "log.txt"
         }
       ]
     },
@@ -7743,7 +7743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 03:55:48 GMT"
+          "Value": "Sun, 02 Mar 2025 03:05:12 GMT"
         }
       ],
       "EndpointProperties": [
@@ -7788,7 +7788,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 03:55:48 GMT"
+          "Value": "Sun, 02 Mar 2025 03:05:12 GMT"
         }
       ],
       "EndpointProperties": [

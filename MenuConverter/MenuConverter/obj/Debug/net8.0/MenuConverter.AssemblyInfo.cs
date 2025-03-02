@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MenuConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd047b84d08afd7a91188845616a744f384908a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MenuConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MenuConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

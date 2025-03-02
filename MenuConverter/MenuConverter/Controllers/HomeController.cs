@@ -84,8 +84,8 @@ public class HomeController : Controller
         using (var client = new HttpClient())
         {
             var request = new HttpRequestMessage(HttpMethod.Post, "https://api.openai.com/v1/chat/completions");
-            request.Headers.Add("Authorization", "Bearer YOUR_API_KEY"); // Thay YOUR_API_KEY bằng API key thực tế
-
+            request.Headers.Add("Authorization", "AIzaSyBHqcZRBDR7F9_Y8wVh01gYbElLgeVaHyE"); // Thay YOUR_API_KEY bằng API key thực tế
+// API key của em đâu? da em quen doi :((
             var jsonContent = new
             {
                 model = "gpt-4",

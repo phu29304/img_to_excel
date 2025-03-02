@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wMqbiFhFeoHgcO1IyA+pMcJvzPBeK/TeOdYyJrhj5qw=",
+  "Hash": "u4DI7jaZLGjLee4XJxOOwNo5TNkH5IZJwqcZxHi91sE=",
   "Source": "MenuConverter",
   "BasePath": "_content/MenuConverter",
   "Mode": "Default",
@@ -1333,8 +1333,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gk6r6jgtsk",
-      "Integrity": "AHQO8WDlsQLiN7Sc5b6VZ5KGMnaKatum+5/U6CTlAqE=",
+      "Fingerprint": "u81v6rm4yq",
+      "Integrity": "8nVCR4rUIcCyAmO3iNkQOUDMcWwGJNniAQVJb8flnvY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\log.txt"
@@ -9868,51 +9868,6 @@
       ]
     },
     {
-      "Route": "log.gk6r6jgtsk.txt",
-      "AssetFile": "C:\\DoAnTN\\MenuConverter\\MenuConverter\\wwwroot\\log.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "412"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AHQO8WDlsQLiN7Sc5b6VZ5KGMnaKatum+5/U6CTlAqE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 03:57:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gk6r6jgtsk"
-        },
-        {
-          "Name": "label",
-          "Value": "log.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AHQO8WDlsQLiN7Sc5b6VZ5KGMnaKatum+5/U6CTlAqE="
-        }
-      ]
-    },
-    {
       "Route": "log.txt",
       "AssetFile": "C:\\DoAnTN\\MenuConverter\\MenuConverter\\wwwroot\\log.txt",
       "Selectors": [],
@@ -9923,7 +9878,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "412"
+          "Value": "289"
         },
         {
           "Name": "Content-Type",
@@ -9931,11 +9886,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AHQO8WDlsQLiN7Sc5b6VZ5KGMnaKatum+5/U6CTlAqE=\""
+          "Value": "\"8nVCR4rUIcCyAmO3iNkQOUDMcWwGJNniAQVJb8flnvY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 03:57:30 GMT"
+          "Value": "Sun, 02 Mar 2025 03:24:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9945,7 +9900,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AHQO8WDlsQLiN7Sc5b6VZ5KGMnaKatum+5/U6CTlAqE="
+          "Value": "sha256-8nVCR4rUIcCyAmO3iNkQOUDMcWwGJNniAQVJb8flnvY="
+        }
+      ]
+    },
+    {
+      "Route": "log.u81v6rm4yq.txt",
+      "AssetFile": "C:\\DoAnTN\\MenuConverter\\MenuConverter\\wwwroot\\log.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8nVCR4rUIcCyAmO3iNkQOUDMcWwGJNniAQVJb8flnvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 03:24:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u81v6rm4yq"
+        },
+        {
+          "Name": "label",
+          "Value": "log.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8nVCR4rUIcCyAmO3iNkQOUDMcWwGJNniAQVJb8flnvY="
         }
       ]
     },
@@ -10136,7 +10136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 03:55:48 GMT"
+          "Value": "Sun, 02 Mar 2025 03:05:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10181,7 +10181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 28 Feb 2025 03:55:48 GMT"
+          "Value": "Sun, 02 Mar 2025 03:05:12 GMT"
         },
         {
           "Name": "Cache-Control",
