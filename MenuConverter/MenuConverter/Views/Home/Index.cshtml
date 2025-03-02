@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Chuyển Đổi Thực Đơn";
+}
+
+<h2>Chuyển thực đơn từ Ảnh/PDF sang Excel</h2>
+
+<form asp-action="Upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" accept=".jpg,.png,.pdf" required>
+    <button type="submit">Tải lên</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p style="color:green">@ViewBag.Message</p>
+}

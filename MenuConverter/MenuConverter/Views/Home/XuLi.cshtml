@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Xử Lý File";
+    string fileName = ViewBag.FileName;
+}
+
+<h2>Xử lý File: @fileName</h2>
+
+<form method="post" asp-action="ChuyenDoi">
+    <input type="hidden" name="fileName" value="@fileName" />
+    <button type="submit">Chuyển đổi</button>
+</form>
+
+@if (ViewBag.ExcelFile != null)
+{
+    <p>Chuyển đổi thành công! <a href="/downloads/@ViewBag.ExcelFile" download>Nhấn vào đây để tải file Excel</a></p>
+}
